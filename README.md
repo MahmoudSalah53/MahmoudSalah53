@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Mahmoud Salah</h1>
 
 <p align="center">
   <em>Backend Developer passionate about building clean and scalable web applications using <strong>Laravel</strong>.</em>
@@ -6,13 +6,18 @@
 
 ---
 
+
 ## 🧑‍💻 About Me
+
 
 Self-taught backend developer specializing in Laravel. Committed to delivering scalable, maintainable solutions and documenting each project on GitHub as evidence of continuous professional growth.
 
+
 ---
 
+
 ## 🛠️ Skills & Technologies
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -23,9 +28,12 @@ Self-taught backend developer specializing in Laravel. Committed to delivering s
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+
 ---
 
+
 ## 🚀 Goals
+
 
 - Build and deploy production-ready Laravel applications
 - Establish a strong portfolio with real-world backend projects
@@ -33,16 +41,21 @@ Self-taught backend developer specializing in Laravel. Committed to delivering s
 - Collaborate on open-source and contribute to the Laravel ecosystem
 - Land a professional backend developer role and grow within a tech team
 
+
 ---
+
 
 ## 📂 Top Projects
 
+
 🚧 Exciting Laravel backend projects are underway and will be showcased here soon—keep an eye out!
+
 
 ---
 
 
 ## 📊 GitHub Stats
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MahmoudSalah&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=radical" />
@@ -52,8 +65,11 @@ Self-taught backend developer specializing in Laravel. Committed to delivering s
   <img src="https://komarev.com/ghpvc/?username=MahmoudSalah&style=flat-square&color=blue" />
 </p>
 
+
 ---
+
 
 ## 📫 How to reach me
 
-Feel free to reach out to me on directly via email: **Mahmoudsalahmansour53@gmail.com**.
+
+Feel free to reach out to me directly via email: **Mahmoudsalahmansour53@gmail.com**.
