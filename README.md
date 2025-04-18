@@ -56,6 +56,11 @@ Self-taught backend developer specializing in Laravel. Committed to delivering s
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://img.shields.io/github/repos/MahmoudSalah?style=flat-square&color=blue" alt="Public Repositories" />
+  <img src="https://img.shields.io/github/followers/MahmoudSalah?style=flat-square&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/following/MahmoudSalah?style=flat-square&color=blue" alt="Following" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MahmoudSalah&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=radical" />
