@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Mahmoud Salah</h1>
+## Hi there 👋
 
 <p align="center">
   <em>Backend Developer passionate about building clean and scalable web applications using <strong>Laravel</strong>.</em>
