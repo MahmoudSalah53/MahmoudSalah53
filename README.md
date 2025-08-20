@@ -52,9 +52,14 @@ Self-taught backend developer specializing in Laravel. Committed to delivering s
 
 ## 📂 Top Projects
 
+- 🔗 [Project 1: BlogPost](https://github.com/MahmoudSalah53/BlogPost)  
+  A blogging platform built with the **TALL stack (TailwindCSS, Alpine.js, Laravel, Livewire)** using the Livewire Starter Kit. Features include user authentication.
 
-🚧 Exciting Laravel backend projects are underway and will be showcased here soon—keep an eye out!
+- 🔗 [Project 2: Chat-Realtime](https://github.com/MahmoudSalah53/Chat-Realtime)  
+  Real-time chat application built with **Laravel and Pusher**, supporting private and group messaging, live updates, and user presence tracking.
 
+- 🔗 [Project 3: Full E-commerce](https://github.com/MahmoudSalah53/eCommerce-WireMart)  
+  A complete e-commerce solution developed with **Laravel, Livewire, and PayPal Gateway**. Includes product catalog, shopping cart, checkout process, and secure online payments.
 
 ---
 
