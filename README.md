@@ -1,70 +1,61 @@
-<h1 align="center">Hi there 👋, I'm Mahmoud Salah</h1>
+<div align="center">
 
-<p align="center">
-  <em>Backend Developer passionate about building clean and scalable web applications using <strong>Laravel</strong>.</em>
-</p>
+# Mahmoud Salah
 
----
+**Full-Stack Developer** · Laravel · React · Next.js · TypeScript
 
+[![Email](https://img.shields.io/badge/Email-mahmoudsalahmansour53%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mahmoudsalahmansour53@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=MahmoudSalah53&style=flat-square&color=6366f1&label=Profile+Views)](https://github.com/MahmoudSalah53)
 
-## 🧑‍💻 About Me
-
-
-Self-taught backend developer specializing in Laravel. Committed to delivering scalable, maintainable solutions and documenting each project on GitHub as evidence of continuous professional growth.
-
+</div>
 
 ---
 
+## About
 
-## 🛠️ Skills & Technologies
+Full-Stack developer focused on building clean, scalable web applications. I work across the stack — from Laravel APIs to React/Next.js frontends — with an emphasis on maintainable architecture and real-world delivery.
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
+Currently deepening my expertise in TypeScript, system design, and API-first development.
 
 ---
 
+## Tech Stack
 
-## 🚀 Goals
+**Backend**
 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-- Build and deploy production-ready Laravel applications
-- Establish a strong portfolio with real-world backend projects
-- Gain deep understanding of system architecture and API design
-- Collaborate on open-source and contribute to the Laravel ecosystem
-- Land a professional backend developer role and grow within a tech team
+**Frontend**
 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
----
+**Tools**
 
-
-## 📂 Top Projects
-
-- 🔗 [Project 1: BlogPost](https://github.com/MahmoudSalah53/BlogPost)  
-  A blogging platform built with the **TALL stack (TailwindCSS, Alpine.js, Laravel, Livewire)** using the Livewire Starter Kit. Features include user authentication.
-
-- 🔗 [Project 2: Chat-Realtime](https://github.com/MahmoudSalah53/Chat-Realtime)  
-  Real-time chat application built with **Laravel and Pusher**, supporting private and group messaging, live updates, and user presence tracking.
-
-- 🔗 [Project 3: Full E-commerce](https://github.com/MahmoudSalah53/eCommerce-WireMart)  
-  A complete e-commerce solution developed with **Laravel, Livewire, and PayPal Gateway**. Includes product catalog, shopping cart, checkout process, and secure online payments.
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
+## Projects
 
-## 📫 How to reach me
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [BlogPost](https://github.com/MahmoudSalah53/BlogPost) | Blogging platform with authentication | TALL Stack (Tailwind, Alpine, Laravel, Livewire) |
+| [Chat-Realtime](https://github.com/MahmoudSalah53/Chat-Realtime) | Real-time chat with private & group rooms, presence tracking | Laravel, Pusher |
+| [WireMart E-commerce](https://github.com/MahmoudSalah53/eCommerce-WireMart) | Full e-commerce with cart, checkout & PayPal integration | Laravel, Livewire |
 
+---
 
-Feel free to reach out to me directly via email: **Mahmoudsalahmansour53@gmail.com**.
+## GitHub Stats
+
+<div align="center">
+
+![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudSalah53&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudSalah53&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
